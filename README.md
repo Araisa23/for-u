@@ -1,55 +1,32 @@
-# 💖 Minta Maaf
+# 🥺💖 Hallo Sayanggg
 
-Halaman interaktif lucu dan manis buat kamu yang mau minta maaf tapi gak tau harus ngomong apa 😭💗  
-Bisa buat ke *ayang*, temen, atau bahkan HTS-an kamu hihihi 😆  
-Cukup klik, dan biarkan efek *love* yang bekerja~  
+Halaman web manis dan interaktif buat ngungkapin perasaan sayang, minta maaf, atau sekadar ngasih semangat buat orang tersayang 💌  
+Cukup isi nama, klik tombolnya, dan biarkan efek cinta yang ngomong 🫶  
+
+---
+
+## 🌸 Tentang Project
+
+**Hallo Sayanggg** adalah proyek web sederhana buatan Raisa 💖  
+Dibuat dengan HTML, CSS, dan JavaScript, proyek ini berisi pesan hangat untuk seseorang spesial bernama **Reza** (tapi kamu bisa ubah sesuka hati 😆).  
+
+Desainnya ringan, responsif, dan punya animasi *love pop-up* yang bikin senyum setiap kali dibuka 💕
 
 ---
 
 ## ✨ Fitur
-- *Personalization* dengan menggunakan nama panggilan
-- Tombol "Maafin 💖" dan "Enggak 😠" yang interaktif  
-- Efek tombol membesar & mengecil pas ditekan  
-- Pop-up love animation super cute  
-- Mobile-friendly (bisa dibuka di HP)  
-- Kode bersih: HTML, CSS, JS dipisah biar gampang modif  
+
+- 💌 Input nama panggilan penerima  
+- 💖 Dua tombol interaktif: “love u too 💖” dan “ga mau bales 😠”  
+- 💫 Efek *popup love animation* yang menggemaskan  
+- 📱 Responsif — bisa dibuka di HP maupun laptop  
+- 🌈 Kode bersih & mudah dimodifikasi (HTML, CSS, JS terpisah)  
+- 💬 Pesan cinta hangat yang bisa kamu ubah sendiri  
 
 ---
 
-## 💡 Cara Pakai
-1. Clone atau fork repo ini:
+## 💡 Cara Menjalankan
+
+1. Clone atau download project ini:
    ```bash
-   git clone https://github.com/alenn-engineer-stress/minta-maaf.git
-2. Drag and drop file index.html di browser kamu.
-3. Bisa langsung dipakai, atau ubah teks-nya sesuka kamu 😎
-
----
-
-## 🧑‍💻 Modifikasi Ide
-
-Ubah teksnya sesuai kreativitas kamu
-
-Tambahin foto, animasi, atau efek suara
-
-Ganti warna biar sesuai vibe kamu
-
-Tambahin foto target penerima
-
----
-
-## 🌐 Live Demo
-
-Kalau mau tampilkan online:
-
-Masuk ke tab Settings → Pages di repo kamu.
-
-Pilih branch main dan folder / (root) → Save.
-
-GitHub bakal kasih link kayak: https://alenn-engineer-stress.github.io/minta-maaf/
-
----
-
-## Kontribusi
-
-Kalau kamu punya ide kreatif (misal efek pelukan, lagu lucu, atau versi “minta naik gaji ke boss),
-boleh banget fork, modif, dan bikin pull request ❤️
+   git clone https://github.com/Araisa23/for-u.git
